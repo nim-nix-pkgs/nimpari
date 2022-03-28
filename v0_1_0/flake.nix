@@ -11,7 +11,6 @@
   inputs.src-nimpari-v0_1_0.ref   = "refs/tags/v0.1.0";
   inputs.src-nimpari-v0_1_0.owner = "BarrOff";
   inputs.src-nimpari-v0_1_0.repo  = "nim-pari";
-  inputs.src-nimpari-v0_1_0.dir   = "";
   inputs.src-nimpari-v0_1_0.type  = "github";
   
   inputs."nimterop".owner = "nim-nix-pkgs";

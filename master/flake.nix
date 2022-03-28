@@ -11,7 +11,6 @@
   inputs.src-nimpari-master.ref   = "refs/heads/master";
   inputs.src-nimpari-master.owner = "BarrOff";
   inputs.src-nimpari-master.repo  = "nim-pari";
-  inputs.src-nimpari-master.dir   = "";
   inputs.src-nimpari-master.type  = "github";
   
   inputs."nimterop".owner = "nim-nix-pkgs";
