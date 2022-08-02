@@ -126,7 +126,7 @@
         "flakeNimbleLib": "flakeNimbleLib",
         "nimterop": "nimterop",
         "nixpkgs": "nixpkgs",
-        "src-nimpari-master": "src-nimpari-master"
+        "src-nimpari-devel": "src-nimpari-devel"
       }
     },
     "src-cligen-v1_5_27": {
@@ -146,19 +146,19 @@
         "type": "github"
       }
     },
-    "src-nimpari-master": {
+    "src-nimpari-devel": {
       "flake": false,
       "locked": {
-        "lastModified": 1638909242,
-        "narHash": "sha256-DIQUJsYV7Owkvy6UJgzv7Ec5r3vGX4nM9Jpj5PMvyb4=",
+        "lastModified": 1617910687,
+        "narHash": "sha256-qMlxojs2UD+RUwhKIcvfgqDmvL1oY9t3uzQzM7vEjzc=",
         "owner": "BarrOff",
         "repo": "nim-pari",
-        "rev": "7d6417a7d8d4d56e7279db2e4a3f58080e3f2488",
+        "rev": "c474fef6d4a56030e542b483c4604689eae94a7c",
         "type": "github"
       },
       "original": {
         "owner": "BarrOff",
-        "ref": "refs/heads/master",
+        "ref": "refs/heads/devel",
         "repo": "nim-pari",
         "type": "github"
       }
